@@ -14,7 +14,7 @@ PNG_VERSION=1.6.37
 SPNG_VERSION=0.6.0
 
 # renovate: datasource=git-tags depName=giflib packageName=https://git.code.sf.net/p/giflib/code extractVersionTemplate=^(?<version>.*)$
-GIF_VERSION=5.2.1
+GIF_VERSION=5.2.2
 
 # renovate: datasource=github-tags depName=libwebp packageName=webmproject/libwebp
 WEBP_VERSION=1.1.0
