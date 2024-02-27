@@ -1,4 +1,4 @@
-FROM fedora:32
+FROM fedora:41
 
 # Set default build arguments.
 ARG NODE_VERSION=10.x
