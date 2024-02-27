@@ -1,5 +1,5 @@
 # renovate: datasource=github-tags depName=libimagequant packageName=ImageOptim/libimagequant extractVersionTemplate=^(?<version>.*)$
-LIQ_VERSION=2.12.6
+LIQ_VERSION=4.3.0
 
 # renovate: datasource=github-releases depName=libexif packageName=libexif/libexif
 EXIF_VERSION=0.6.24
