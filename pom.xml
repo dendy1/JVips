@@ -53,7 +53,7 @@
 
         <!-- Runtime dependencies -->
         <jmh.version>1.37</jmh.version>
-        <junit.version>4.13.1</junit.version>
+        <junit.version>4.13.2</junit.version>
     </properties>
 
     <profiles>
