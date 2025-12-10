@@ -1,4 +1,4 @@
-FROM centos:7.2.1511
+FROM centos:7.9.2009
 
 # Set default build arguments.
 ARG NODE_VERSION=10.x
